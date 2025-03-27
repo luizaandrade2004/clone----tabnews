@@ -1,5 +1,5 @@
 function Home () {
-    return <h1> PASTEL DE FLANGOO SPADE </h1>
+    return <h1> eu me amo, bjs </h1>
 }
 
 export default Home;
